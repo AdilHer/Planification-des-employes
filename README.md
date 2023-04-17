@@ -1,4 +1,7 @@
 # Planification-des-employes
+
+Ref: https://developers.google.com/optimization/cp?hl=fr
+
 Planification des employés
 
 Une programmation pour 4 infirmiers sur une période de 3 jours, sous les contraintes suivantes:
